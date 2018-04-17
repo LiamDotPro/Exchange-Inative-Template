@@ -1,5 +1,7 @@
 # exchange-iniative
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LiamDotPro/Exchange-Inative-Template.svg)](https://greenkeeper.io/)
+
 > A vueJS Template for creating a Crypto Currency Exchange
 
 ## Build Setup
